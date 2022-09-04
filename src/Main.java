@@ -12,7 +12,7 @@ public class Main {
         final int AFTER_ARMY_AGE = 27;
         final int RETIREMENT_MEN_AGE = 65;
         final int RETIREMENT_WOMEN_AGE = 60;
-        
+
         List<String> names = Arrays.asList("Jack", "Connor", "Harry", "George", "Samuel", "John");
         List<String> families = Arrays.asList("Evans", "Young", "Harris", "Wilson", "Davies", "Adamson", "Brown");
         Collection<Person> persons = new ArrayList<>();
